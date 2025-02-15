@@ -2,4 +2,5 @@ razorx411 resolusi
 1. konsisten commit github setiap hari
 2. menguasai java adavanced
 3. buat web porto pribadi
+4. belajar linux
 
